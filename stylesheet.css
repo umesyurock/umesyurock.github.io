@@ -67,7 +67,11 @@ li {
   float: left;
   /* margin-rightを40pxにしてください */
   margin-right:40px;
+}
 
+.contents-item img{
+  width:150px;
+  height:150px;
 }
 
 /* contents-itemの中のp要素のfont-size、margin-topを指定してください */
