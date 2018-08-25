@@ -44,9 +44,9 @@ li {
 }
 
 .contents {
-  height: 500px;
+  height: 300px;
   /* margin-topを100pxにしてください */
-  margin-top:100px;
+  margin-top:50px;
 
 }
 
