@@ -69,10 +69,6 @@ li {
   margin-right:40px;
 }
 
-.contents-item img{
-  width:100px;
-  height:100px;
-}
 
 /* contents-itemの中のp要素のfont-size、margin-topを指定してください */
 .contents-item p{
